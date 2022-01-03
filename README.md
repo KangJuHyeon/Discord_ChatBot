@@ -1,6 +1,5 @@
 # Discord_ChatBot
-Discord ChatBot Practice
-
+Discord ChatBot Practice   
 참고 자료
 * * *
 Link : [discord.js 공식 문서](https://discordjs.guide/preparations/)   
