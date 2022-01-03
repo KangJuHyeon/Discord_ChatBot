@@ -1,5 +1,5 @@
 # Discord_ChatBot
-Discord ChatBot Practice   
+Discord Bot Practice   
    
    
 참고 자료
